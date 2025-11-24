@@ -33,7 +33,7 @@
     --defaultLighterBorder: var(--borderWidth) solid var(--lighterBorderColor);
     --textColor: rgb(209, 213, 219);
     --dimTextColor: rgb(156, 163, 175);
-    --backgroundGradient: linear-gradient(0deg, #1c978377 25%, #014034 25%, #02735E 50%);
+    --backgroundGradient: linear-gradient(0deg, #2f978677 25%, #0ea085 25%, #02735E 50%);
     --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), 25%, var(--lighterGradientPoint));
     --headerColorGradient: linear-gradient(180deg, rgba(1, 64, 52, .95) 30%, 55%, transparent 90%);
     --headerColorGradientAlt: linear-gradient(180deg, rgba(1, 64, 52, 1), 70%, transparent);
