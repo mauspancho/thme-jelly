@@ -3,7 +3,7 @@
 :root {
     --elegantFinFooterText: "ElegantFin v25.10.27";
     color-scheme: dark;
-    --darkerGradientPoint: #0D0D0D;
+    --darkerGradientPoint: #1d2724;
     --darkerGradientPointAlpha: rgba(13, 13, 13, .85);
     --lighterGradientPoint: #014034;
     --lighterGradientPointAlpha: rgba(1, 64, 52, .85);
