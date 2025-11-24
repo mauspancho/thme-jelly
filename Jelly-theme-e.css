@@ -35,7 +35,7 @@
     --dimTextColor: rgb(156, 163, 175);
     --backgroundGradient: linear-gradient(0deg, #2f978677 25%, #0ea085 25%, #02735E 50%);
     --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), 25%, var(--lighterGradientPoint));
-    --headerColorGradient: linear-gradient(180deg, rgba(1, 64, 52, .95) 30%, 55%, transparent 90%);
+    --headerColorGradient: linear-gradient(180deg, rgba(245, 245, 245, 0.95) 30%, 55%, transparent 90%);
     --headerColorGradientAlt: linear-gradient(180deg, rgba(1, 64, 52, 1), 70%, transparent);
     --headerBlurMask: linear-gradient(180deg, white 50%, 85%, transparent);
     --cardFooterGradient: linear-gradient(0deg, rgb(0 0 0 / 90%), 40%, transparent);
