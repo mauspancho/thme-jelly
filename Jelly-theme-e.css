@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Material+Icons');
 
 :root {
     --elegantFinFooterText: "ElegantFin v25.10.27";
@@ -34,7 +33,7 @@
     --defaultLighterBorder: var(--borderWidth) solid var(--lighterBorderColor);
     --textColor: rgb(209, 213, 219);
     --dimTextColor: rgb(156, 163, 175);
-    --backgroundGradient: linear-gradient(0deg, #0D0D0D 0%, #014034 50%, #02735E 100%);
+    --backgroundGradient: linear-gradient(0deg, #1c978377 25%, #014034 25%, #02735E 500%);
     --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), 25%, var(--lighterGradientPoint));
     --headerColorGradient: linear-gradient(180deg, rgba(1, 64, 52, .95) 30%, 55%, transparent 90%);
     --headerColorGradientAlt: linear-gradient(180deg, rgba(1, 64, 52, 1), 70%, transparent);
